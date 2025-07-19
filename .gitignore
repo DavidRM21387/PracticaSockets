@@ -1,0 +1,12 @@
+# Demo images and temporary files
+*.png
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
+.idea/
+
+# Keep demo creation script but ignore output
+!create_demo.py
